@@ -1,2 +1,2 @@
 # weather-app
-weather app tutorial from codeburst.io
+A very simple node based weather application using ejs templating.
