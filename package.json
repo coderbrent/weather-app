@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/coderbrent/weather-app#readme",
   "dependencies": {
-    "ajv": "^6.12.2",
+    "ajv": "^6.12.3",
     "body-parser": "^1.19.0",
     "dotenv": "^8.2.0",
     "ejs": "^2.7.4",
