@@ -18,10 +18,10 @@
   "homepage": "https://github.com/coderbrent/weather-app#readme",
   "dependencies": {
     "ajv": "^6.12.2",
-    "body-parser": "^1.19.0",
+    "body-parser": "^1.20.1",
     "dotenv": "^8.2.0",
     "ejs": "^2.7.4",
-    "express": "^4.16.4",
+    "express": "^4.18.2",
     "jake": "^10.8.2",
     "request": "^2.88.2"
   }
